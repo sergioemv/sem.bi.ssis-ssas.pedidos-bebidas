@@ -1,0 +1,31 @@
+Analisis bd Mendo
+
+MDV001 articulos
+-cuales son los posibles resultados de MTIPR 
+0=
+1=
+2=
+-los articulos se manejan por abreviatura o por nombre
+
+-tipo de envase
+100=
+10000=
+20000=
+FALTA TABLA LINEA (MDV051)
+
+MDV003_Pedidos_Cab
+con quien se relaciona PEMP (empresa)
+(compania)
+todas van al mismo centro de costo
+PCOST
+evaluar eliminar esta informacion
+diferencia entre PFEVEN y PFECHA
+dias plazo de que?
+Pconsi 
+cuales son los valores con su significado
+pestad
+que significa G?
+pconcr
+diferencia con pconsi
+
+
